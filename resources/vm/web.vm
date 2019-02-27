@@ -1,0 +1,20 @@
+<HTML>
+
+	<HEAD>
+
+		<TITLE>MI PÁGINA </TITLE>
+
+	</HEAD>
+
+	<BODY bgcolor="pink">
+	
+		<H3> La siguiente es la lista </H3>
+		<ul>
+			<li type="circle"> Nombre: $Nombre </li>
+			<li type="circle"> Cedula: $Cedula </li>
+			<li type="circle"> Edad: $Edad </li>		
+		</ul>
+	
+	</BODY>
+
+</HTML>
